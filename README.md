@@ -74,7 +74,14 @@ Solução de Front-end desenvolvida com foco em acessibilidade e experiência do
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📊 GitHub Stats
+### 🏆 Conquistas & Troféus do GitHub
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=Carl0s33&theme=dracula&no-frame=false&margin-w=15&column=4" alt="Carl0s33 GitHub Trophies" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 📊 Estatísticas Gerais
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Carl0s33&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
@@ -84,6 +91,15 @@ Solução de Front-end desenvolvida com foco em acessibilidade e experiência do
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🏙️ Gráfico de Contribuições 3D
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Carl0s33/Carl0s33/main/profile-3d-contrib/profile-green-animate.svg" alt="Gráfico 3D de Contribuições" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🐍 Jogo da Cobrinha
 
 <div align="center">
   <picture>
