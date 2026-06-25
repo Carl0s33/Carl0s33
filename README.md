@@ -2,8 +2,9 @@
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   <br />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=32A041&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Carlos+Eduardo!+👋;Desenvolvedor+Full+Stack;Entusiasta+Linux+%26+Open+Source" alt="Typing SVG" />
+<div align="center">
+  <img src="https://github-readme-jokes.vercel.app/api?theme=dracula" alt="Piada de Dev" />
+</div>
 
   ### Acadêmico em Análise e Desenvolvimento de Sistemas
   
