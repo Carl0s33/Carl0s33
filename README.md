@@ -436,7 +436,7 @@ public class Developer {
   <img src="https://img.shields.io/badge/Instagram-E68537?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="carloseduardosantosvitor4@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
